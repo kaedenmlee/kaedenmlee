@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaeden Lee</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Aspiring Software Engineer --- Computer Science @ University of Nevada, Las Vegas</h3>
 
 - 🔭 I’m currently working on [NBA Game Predictor](https://github.com/kaedenmlee/NBA_game_predictor)
 
